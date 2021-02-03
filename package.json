@@ -33,7 +33,7 @@
     "onLanguage:prisma"
   ],
   "dependencies": {
-    "@prisma/language-server": "2.10.2"
+    "@prisma/language-server": "2.16.0"
   },
   "contributes": {
     "commands": [
